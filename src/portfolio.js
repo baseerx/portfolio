@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Muhammad Baseer Khan",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
+    "https://www.dropbox.com/s/321abgesiaxpxet/Baseer-Resume.pdf?dl=0",
   mail: "mailto:baxeerkhan@gmail.com",
 };
 
