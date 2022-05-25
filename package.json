@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "portfolio",
-  "homepage": "https://baseerx.github.io/portfolio/",
+  "homepage": "http://baseerkhan.live/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
