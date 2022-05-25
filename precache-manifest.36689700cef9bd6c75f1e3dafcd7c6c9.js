@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79b2c6d8588c2dc38acc8ca739128f9e",
+    "revision": "6dbcf6a55a110789f925d22da80a2f6c",
     "url": "/index.html"
   },
   {
-    "revision": "e60d21d2578dbb21904f",
+    "revision": "a95303fd057b97464f09",
     "url": "/static/css/main.bd80e5c9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.55976cd0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e60d21d2578dbb21904f",
-    "url": "/static/js/main.5478ba61.chunk.js"
+    "revision": "a95303fd057b97464f09",
+    "url": "/static/js/main.199d114a.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "33ca56705b07f38be9b1c852e4957b48",
+    "url": "/static/media/baseer.33ca5670.jpeg"
   },
   {
     "revision": "a1051a228140c97862ba9a7f321c92b6",
@@ -150,10 +154,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f7288055334eeee2693e025ee2a8a8ee",
     "url": "/static/media/hackathon1.f7288055.svg"
-  },
-  {
-    "revision": "823352fd86e6f76120c6713bccc61157",
-    "url": "/static/media/harikrushn.823352fd.jpg"
   },
   {
     "revision": "36d7942a201d6e2b83b55876e8433ccf",
