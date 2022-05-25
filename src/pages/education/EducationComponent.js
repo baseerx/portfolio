@@ -29,8 +29,11 @@ function Education(props) {
                 className="experience-header-detail-text subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                I actively participate in hackathons and other tech-related
-                activities. Below are some of my major certifications.
+                I have done MSc Computer Science from Quaid-I-Azam University
+                Islamabad.As i have done with my education i got an offer as
+                software engineer from PAF where i have worked for 1.5 years and
+                later on joined NTDC Wapda where i i am still working. I got
+                couple of certifcates during service in NTDC.
               </p>
             </div>
           </div>

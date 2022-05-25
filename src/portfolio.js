@@ -10,26 +10,25 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Hello 👋.",
-  title2: "Harikrushn",
-  logo_name: "harry.k()",
-  nickname: "harry / picleric",
-  full_name: "Harikrushn Kanani",
-  subTitle:
-    "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
+  title2: "Baseer Khan",
+  logo_name: "M Baseer Khan",
+  nickname: "Baseer",
+  full_name: "Muhammad Baseer Khan",
+  subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://docs.google.com/document/d/1A_jWRG74Rst427tg1izLa6vRXclS9_9F856jWJPJlDY/edit?usp=sharing",
-  mail: "mailto:hkanani191@gmail.com",
+  mail: "mailto:baxeerkhan@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/harikanani",
-  linkedin: "https://www.linkedin.com/in/harikrushn-kanani/",
-  gmail: "hkanani191@gmail.com",
-  gitlab: "https://gitlab.com/harikanani",
-  facebook: "https://www.facebook.com/harikrishan.kanani/",
+  github: "https://github.com/baseerx",
+  linkedin: "https://www.linkedin.com/in/BaseerKhan/",
+  gmail: "baxeerkhan@gmail.com",
+  gitlab: "https://gitlab.com/baseerntdc",
+  facebook: "https://www.facebook.com/BaxeerKhan",
   twitter: "https://twitter.com/Harikrushn9",
-  instagram: "https://www.instagram.com/hari_kanani_/",
+  instagram: "https://www.instagram.com/baseerx/",
 };
 
 const skills = {
@@ -39,10 +38,10 @@ const skills = {
       fileName: "FullStackImg",
       skills: [
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-        "⚡ Building responsive website front end using ReactJS",
-        "⚡ Developing mobile applications using Flutter and Android",
-        "⚡ Creating application backend in Node, Express & Flask",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+        "⚡ Building responsive website front end using ReactJS,VueJs,Jquery,VanillaJs",
+        "⚡ Front end Libraries Such As Bootstrap 5,MUI,Vuetify",
+        "⚡ Creating application backend in Laravel,Express,.Net MVC",
+        "⚡ Integration of third party services such as Sql Server,MySql,Oracle 11g",
       ],
       softwareSkills: [
         {
@@ -82,7 +81,7 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
+          skillName: "ExpressJS",
           fontAwesomeClassname: "simple-icons:node-dot-js",
           style: {
             color: "#339933",
@@ -96,7 +95,7 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
+          skillName: "MySqlDB",
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
             color: "#439743",
@@ -110,28 +109,28 @@ const skills = {
         //   },
         // },
         {
-          skillName: "Android",
+          skillName: "NextJs",
           fontAwesomeClassname: "simple-icons:android",
           style: {
             color: "#3DDC84",
           },
         },
         {
-          skillName: "Java",
+          skillName: "VueJS",
           fontAwesomeClassname: "simple-icons:java",
           style: {
             color: "#f89820",
           },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "Laravel",
+          fontAwesomeClassname: "simple-icons:laravel",
           style: {
             color: "#02569B",
           },
         },
         {
-          skillName: "Dart",
+          skillName: ".Net MVC",
           fontAwesomeClassname: "simple-icons:dart",
           style: {
             color: "#29B0EE",
@@ -180,8 +179,8 @@ const skills = {
           },
         },
         {
-          skillName: "C",
-          fontAwesomeClassname: "simple-icons:c",
+          skillName: "Oracle",
+          fontAwesomeClassname: "simple-icons:oracle",
           style: {
             color: "#E94E32",
           },
@@ -194,8 +193,8 @@ const skills = {
           },
         },
         {
-          skillName: "Python",
-          fontAwesomeClassname: "simple-icons:python",
+          skillName: "NuxtJs",
+          fontAwesomeClassname: "simple-icons:nuxt",
           style: {
             color: "#3776AB",
           },
@@ -203,54 +202,33 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "SQL Server",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Experience hosting and managing websites",
-        "⚡ Experience with Continuous Integration",
+        "⚡ Data Retrieval",
+        "⚡ Api Integration",
+        "⚡ Experience with Continuous Integration with MySql,Sql Server & SomeHow Oracle",
       ],
       softwareSkills: [
         {
-          skillName: "AWS",
+          skillName: "WinScp",
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
           },
         },
         {
-          skillName: "Netlify",
-          fontAwesomeClassname: "simple-icons:netlify",
-          style: {
-            color: "#38AFBB",
-          },
-        },
-        {
-          skillName: "Heroku",
-          fontAwesomeClassname: "simple-icons:heroku",
-          style: {
-            color: "#6863A6",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          skillName: "Oracle",
+          fontAwesomeClassname: "simple-icons:oracle",
           style: {
             color: "#FFCA28",
           },
         },
         {
-          skillName: "PostgreSQL",
+          skillName: "MySQL",
           fontAwesomeClassname: "simple-icons:postgresql",
           style: {
             color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
           },
         },
         {
@@ -275,31 +253,31 @@ const skills = {
 const degrees = {
   degrees: [
     {
-      title: "Shantilal Shah Engineering College",
-      subtitle: "Bachelor in Information Technology",
+      title: "Quaid-I-Azam University Islamabad",
+      subtitle: "MSc Computer Science",
+      logo_path: "ssgandhy.png",
+      alt_name: "SSGC",
+      duration: "2015 - 2017",
+      descriptions: [
+        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Operating System etc.",
+        "⚡ I have also completed various online courses for Backend , Web , Frontend,Web Technologies etc.",
+        "⚡ I have implemented several projects based on what I've learnt under my Computer Science Degree from Pakistan Top University",
+      ],
+      website_link: "hhttps://qau.edu.pk/",
+    },
+    {
+      title: "Islamabad College For Boys, G6/3 Islamabad",
+      subtitle: "Bachelor in Science",
       logo_path: "ssec.png",
       alt_name: "SSEC",
-      duration: "2021 - Present",
+      duration: "2012 - 2014",
       descriptions: [
-        "⚡ I'm currently pursuing my bachelors in Information Technology."
+        "⚡I have done with two years of Bachelors from ICB Islamabad Having affiliation with Quaid-I-Azam University Islamabad",
         // "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
         // "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
         // "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
       ],
-      website_link: "http://www.ssgec.ac.in/",
-    },
-    {
-      title: "Dr. S. & S. S. Ghandhy College Of Engineering & Technology",
-      subtitle: "Diploma in Information Technology",
-      logo_path: "ssgandhy.png",
-      alt_name: "SSGC",
-      duration: "2018 - 2021",
-      descriptions: [
-        "⚡ I have studied core subjects like Data Structures, DBMS, Networking, Security, etc.",
-        "⚡ I have also completed various online courses for Backend , Web , Mobile App Development, etc.",
-        "⚡ I have implemented several projects based on what I've leart under my Computer Engineering course. ",
-      ],
-      website_link: "http://www.ssgc.cteguj.in/",
+      website_link: "https://icb.edu.pk/",
     },
   ],
 };
@@ -307,67 +285,61 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "M0001: MongoDB Basics",
-      subtitle: "MongoDB University",
+      title: "Microsoft Word Expert",
+      subtitle: "Quaid I Azam University Islamabad",
       logo_path: "mongo.png",
       certificate_link:
-        "https://drive.google.com/file/d/12se6bMep48WXA1PlizTBAgCnW0GXM6wq/view?usp=sharing",
+        "https://www.dropbox.com/s/ra0pskiqnrd4vyg/BsrMsWord.pdf?dl=0",
       alt_name: "MongoDB University",
       // color_code: "#2AAFED",
       color_code: "#47A048",
     },
     {
-      title: "Hackathon",
-      subtitle: "Hack The Mountains",
+      title: "------",
+      subtitle: "-------",
       logo_path: "hackathon1.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1Y-HT1flWDfeyfnfqVr3ubNgGIcnuUEYt/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "hackathon",
       color_code: "#E2405F",
     },
     {
-      title: "A300: Atlas Security",
-      subtitle: "MongoDB University",
+      title: "------",
+      subtitle: "-------",
       logo_path: "mongo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12u_tkvhgB-K2TIm-RDdJOwYbQ9ccqiqA/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "MongoDB University",
       // color_code: "#F6B808",
       color_code: "#47A048",
     },
     {
-      title: "Cyber Security & Cyber Forensics",
-      subtitle: "Workshop at IIT Bombay",
+      title: "------",
+      subtitle: "-------",
       logo_path: "iit.png",
-      certificate_link:
-        "https://drive.google.com/file/d/12uAdjQC5LfrB1ODdxqIY181ugyyQhl-I/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "Workshop",
       color_code: "#2AAFED",
     },
     {
-      title: "MLH Local Hack Day: Build",
-      subtitle: "Major League Hacking",
+      title: "------",
+      subtitle: "-------",
       logo_path: "mlh-logo.svg",
-      certificate_link:
-        "https://drive.google.com/file/d/1ws7g2Oepu76vDFir6SvR_emFAMSkB2ZQ/view?usp=sharing",
+      certificate_link: "#",
       alt_name: "Google",
       color_code: "#fe0037",
     },
     {
-      title: "Hack20",
-      subtitle: "Flutter International Hackathon",
+      title: "------",
+      subtitle: "-------",
       logo_path: "flutter.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1JTd8pVlHbP0RVQYtfa4OZgJYGfdiCwM6/view?usp=sharing",
-      alt_name: "Flutter International Hackathon",
+      certificate_link: "#",
+      alt_name: "--------",
       color_code: "#2AAFED",
     },
     {
       title: "Postman Student Expert",
       subtitle: "Postman",
       logo_path: "postman.png",
-      certificate_link:
-        "https://badgr.com/public/assertions/h2qevHs4SlyoHErJQ0mn2g",
+      certificate_link: "#",
       alt_name: "Postman",
       // color_code: "#f36c3d",
       color_code: "#fffbf3",
@@ -387,114 +359,40 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Software Engineer",
   description:
-    "I've completed one internship. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I have one and half year of working experience as web developer in Air HeadQuarters (PAF). I have developed Air defence system using Vuejs and Laravel.There i have worked on C/C++",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Work Experience",
       experiences: [
         {
-          title: "Full Stack Developer (Intern)",
-          company: "Valora Infotech",
-          company_url: "https://valora-infotech.business.site/",
+          title: "Assistant Manager IT",
+          company: "National Transmission & Despatch Company",
+          company_url: "https://ntdc.gov.pk/",
           logo_path: "valora.jpg",
-          duration: "Oct 2020 - Mar 2021",
-          location: "Office",
-          description:
-          `Train, manage and provide guidance to junior software development staff.
+          duration: "Feb 2019 - Continue",
+          location: "Islamabad",
+          description: `Train, manage and provide guidance to junior software development staff.
           Work closely with the Project Manager and Team Leads on change request functions.
           Develops new and maintains existing applications.
-          Increased productivity and problem-solving technics by 20%.
-          We primarily used PERN and MERN Stack. 80% of my work was doing backend development and the remaining 20% was DevOps-related tasks.
+          Conducting trainings of those employees of whom promotion is pending using portal developed by me.
           `,
-            // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
+          // "I worked on the Dashboard project which helps users track their activities while using Walo Application. I also worked on Ocean Inventory Application and it's Admin panel Backend as well as on Ocean Inventory Admin Front-end using React and also worked on Walo Admin Backend.",
           color: "#0071C5",
         },
         {
           title: "Full Stack Developer (Freelancer)",
-          company: "NightOwls",
-          company_url: "http://nightowls.company/",
+          company: "Upwork",
+          company_url: "#",
           logo_path: "nightowls.jpg",
-          duration: "Sep 2020 - Oct 2020",
+          duration: "Sep 2017 - Continue",
           location: "Work From Home",
-          description:
-          `Work closely with the Client and Team on change request functions.
-          We Primarily used LAMP Stack. 40% of my work was doing backend development, 30% of my work was designing database schemas, and 30% of my work was on maintain hosting and user traffics on the website.
+          description: `Since student life i am working as freelancer,While working as freelancer i have done with multiple projects using latest web technologies etc.
           `,
-            // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
+          // "Created Front end of Yearn Financial Mutual Funds website. also degined simple web application for better user experience, designed DB Schemas as well.",
           color: "#ee3c26",
-        }
-      ],
-    },
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
-          company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
-          color: "#4285F4",
-        },
-        {
-          title: "Campus Hustler",
-          company: "Skillenza",
-          company_url: "https://skillenza.com/",
-          logo_path: "skillenza.png",
-          duration: "Feb 2021 - Present",
-          location: "Work from Home",
-          description: "Spread Awareness of new Technologies and new Opportunities to Students and Grow Skillenza Community.",
-          color: "#196acf",
-        },
-        {
-          title: "GitHub Student Developer",
-          company: "GitHub",
-          company_url: "https://github.com/",
-          logo_path: "github.png",
-          duration: "Nov 2019 - Present",
-          location: "Work from Home",
-          description:
-          "Contribute to Open Source Community and Open Source Project.",
-          color: "#040f26",
-        },
-        {
-          title: "Google Local Guide",
-          company: "Google Map",
-          company_url: "https://maps.google.com/localguides/",
-          logo_path: "localguide.png",
-          duration: "Sep 2018 - Present",
-          location: "Work From Home",
-          description:
-            "Day-to-day responsibilities of helping local businesses to spread their business to the world. Helping users by writing reviews about different locations and spaces such as shops, malls, etc.",
-          color: "#D83B01",
-        },
-        {
-          title: "GDG Student Volunteer",
-          company: "Google Developer Groups",
-          company_url: "https://gdg.community.dev/",
-          logo_path: "gdg.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Google Developer Group Surat Student Volunteer and Member.",
-          color: "#D83B01",
-        },
-        {
-          title: "E. F. I. Student Volunteer",
-          company: "ENVIRONMENTALIST FOUNDATION OF INDIA",
-          company_url: "https://indiaenvironment.org/",
-          logo_path: "efi.png",
-          duration: "Apr 2017 - Present",
-          location: "Work From Home",
-          description:
-            "Take time out over weekends to join a gang of nation builders, nature enthusiasts to conserve what is left.",
-          color: "#5a900f",
         },
       ],
     },
@@ -532,7 +430,8 @@ const projects = {
       id: "0",
       name: "AutomateInstaPyBot",
       url: "https://github.com/harikanani/AutomateInstaPyBot",
-      description: "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
+      description:
+        "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
       languages: [
         {
           name: "Python",
@@ -628,8 +527,7 @@ const projects = {
       id: "3",
       name: "node_express_crud_api_starter",
       url: "https://github.com/harikanani/node_express_crud_api_starter",
-      description:
-        "Simple NodeJS Express CRUD Operations API starter.",
+      description: "Simple NodeJS Express CRUD Operations API starter.",
       languages: [
         {
           name: "NodeJS",
@@ -687,8 +585,7 @@ const projects = {
       id: "6",
       name: "Automate Attendace",
       url: "https://github.com/harikanani/Node_Python",
-      description:
-        "Automation of Online Attendance using node js and python",
+      description: "Automation of Online Attendance using node js and python",
       languages: [
         {
           name: "JavaScript",
@@ -725,8 +622,7 @@ const projects = {
       id: "8",
       name: "Flask Blog",
       url: "https://github.com/harikanani/flask_blog",
-      description:
-        "A Simple Blog Web Application made using Flask Framework",
+      description: "A Simple Blog Web Application made using Flask Framework",
       languages: [
         {
           name: "Python",
@@ -750,8 +646,7 @@ const projects = {
       id: "9",
       name: "Netflix top series",
       url: "https://github.com/harikanani/netflix-top-series",
-      description:
-        "List of Top Netflix Series which is deployed to vercel.",
+      description: "List of Top Netflix Series which is deployed to vercel.",
       languages: [
         {
           name: "JavaScript",
@@ -775,7 +670,8 @@ const projects = {
       id: "10",
       name: "COVID-19 Tracker",
       url: "https://github.com/harikanani/Covid19TrackerReact",
-      description: "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+      description:
+        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
       languages: [
         {
           name: "JavaScript",
@@ -799,7 +695,8 @@ const projects = {
       id: "11",
       name: "Food Order Static Website",
       url: "https://github.com/harikanani/food-order-website",
-      description: "A simple static website related to food restaurants service. this is reasponsive as well.",
+      description:
+        "A simple static website related to food restaurants service. this is reasponsive as well.",
       languages: [
         {
           name: "HTML5",
