@@ -12,7 +12,7 @@ export default function Main(propss) {
   if (settings.isSplash) {
     return (
       <div>
-        <BrowserRouter basename="/">
+        <BrowserRouter>
           <Switch>
             <Route
               path="/"
