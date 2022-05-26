@@ -403,7 +403,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects make use of a vast variety of latest technology tools. My best experience is to create NodeJS Backend Projects, Python Scripts, and React Project. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is to create Laravel PHP Framework Projects, ExpressJs Plus .Net MVC, JS Frameworks such as VueJs,ReactJs in frontend Projects. Below are some of my projects. Note that not all of the mentioned projects are on GitHub yet.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -419,7 +419,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Twitter.",
-    link: "https://twitter.com/Harikrushn9",
+    link: "https://twitter.com/BaseerKahn",
     avatar_image_path: "blogs_image.svg",
   },
 };
@@ -428,23 +428,23 @@ const projects = {
   data: [
     {
       id: "0",
-      name: "AutomateInstaPyBot",
-      url: "https://github.com/harikanani/AutomateInstaPyBot",
+      name: "Training Portal",
+      url: " https://baseerx@bitbucket.org/baseerx/tsgportal.git",
       description:
-        "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
+        "This project covers training related all requirements in which any institution can take promotional exams,it covers auto online multiple in time exams..",
       languages: [
         {
-          name: "Python",
+          name: "Vue",
           iconifyClass: "logos-python",
         },
       ],
     },
     {
       id: "1",
-      name: "react-twitter-clone",
-      url: "https://github.com/harikanani/react-twitter-clone",
+      name: "Asset Collection System",
+      url: "#",
       description:
-        "A React Twitter Clone UI with basic functionality such as make a Tweet.Embedded Profile Tweets and Share on Twitter.",
+        "A VueJs Project which collects assets for any organization which can be used in any ERP project..",
       languages: [
         {
           name: "HTML5",
@@ -455,29 +455,37 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
         {
-          name: "React",
+          name: "VueJS",
           iconifyClass: "logos-react",
         },
         {
-          name: "Firebase",
+          name: "MySql",
           iconifyClass: "logos-firebase",
+        },
+        {
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
         },
       ],
     },
     {
       id: "2",
-      name: "node-blockchain",
-      url: "https://github.com/harikanani/node-blockchain",
+      name: "Legal Management System",
+      url: "#",
       description:
-        "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
+        "This project is developed for tracking legal activities,cases which inform concerned party in time before that date expires",
       languages: [
         {
-          name: "NodeJS",
+          name: "Core PHP",
           iconifyClass: "logos-nodejs",
         },
         {
           name: "TypeScript",
           iconifyClass: "logos-typescript",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
