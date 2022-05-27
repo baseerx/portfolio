@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "portfolio",
-  "homepage": "http://baseerkhan.live/",
+  "homepage": "https://baseerkhan.live/",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
