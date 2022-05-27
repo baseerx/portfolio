@@ -434,8 +434,24 @@ const projects = {
         "This project covers training related all requirements in which any institution can take promotional exams,it covers auto online multiple in time exams..",
       languages: [
         {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
           name: "Vue",
-          iconifyClass: "logos-python",
+          iconifyClass: "logos-vue",
+        },
+        {
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
@@ -456,15 +472,19 @@ const projects = {
         },
         {
           name: "VueJS",
-          iconifyClass: "logos-react",
+          iconifyClass: "logos-vue",
         },
         {
           name: "MySql",
-          iconifyClass: "logos-firebase",
+          iconifyClass: "logos-mysql",
         },
         {
           name: "Laravel",
           iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
@@ -476,12 +496,20 @@ const projects = {
         "This project is developed for tracking legal activities,cases which inform concerned party in time before that date expires",
       languages: [
         {
-          name: "Core PHP",
-          iconifyClass: "logos-nodejs",
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
         },
         {
-          name: "TypeScript",
-          iconifyClass: "logos-typescript",
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Core PHP",
+          iconifyClass: "logos-php",
+        },
+        {
+          name: "JS",
+          iconifyClass: "logos-javascript",
         },
         {
           name: "Bootstrap",
@@ -491,10 +519,10 @@ const projects = {
     },
     {
       id: "3",
-      name: "top-crypto-gainers",
-      url: "https://github.com/harikanani/top-crypto-gainers",
+      name: "Internal Department Exam Portal",
+      url: "#",
       description:
-        "A top high price changed crypto coins wring 24 hoursA sound-classifier webapp made with ReactJS + TensorflowJS.",
+        "This portal is almost like tsgportal but their some features which keep this project odd from it,it has auto certificate generation functionality.",
       languages: [
         {
           name: "HTML5",
@@ -505,50 +533,25 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: "Vue",
+          iconifyClass: "logos-vue",
         },
         {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
     {
       id: "4",
-      name: "personal-portfolio",
-      url: "https://github.com/harikanani/personal-portfolio",
+      name: "Board Of Directors Management System",
+      url: "#",
       description:
-        "A simple command line interface based quiz app to know more about me :).",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
-        },
-      ],
-    },
-    {
-      id: "3",
-      name: "node_express_crud_api_starter",
-      url: "https://github.com/harikanani/node_express_crud_api_starter",
-      description: "Simple NodeJS Express CRUD Operations API starter.",
-      languages: [
-        {
-          name: "NodeJS",
-          iconifyClass: "logos-nodejs",
-        },
-      ],
-    },
-    {
-      id: "4",
-      name: "node-web-scrapper",
-      url: "https://github.com/harikanani/node-web-scrapper",
-      description:
-        "A Simple web scrapper that scrap the information of amazon products such as price.It also scrap Wikipedia Data such as birthdate.",
+        "This portal manages trainings for BOD members and informs supporting staff in time for taking necessary actions..",
       languages: [
         {
           name: "HTML5",
@@ -559,17 +562,25 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
         {
-          name: "NodeJs",
-          iconifyClass: "logos-nodejs",
+          name: "Core PHP",
+          iconifyClass: "logos-php",
+        },
+        {
+          name: "JS",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
     {
       id: "5",
-      name: "harikanani.github.io",
-      url: "https://github.com/harikanani/harikanani.github.io",
+      name: "System Operator Website",
+      url: "http://sonpcc.com/",
       description:
-        "A Personal Portfolio Website that showcases my work and experience. which is hosted on Github Pages.",
+        "A dynamic website which displays multiple charts on real time basis and keeps static data,mobile responsive..",
       languages: [
         {
           name: "HTML5",
@@ -580,66 +591,34 @@ const projects = {
           iconifyClass: "vscode-icons:file-type-css",
         },
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
+          name: ".Net API",
+          iconifyClass: "logos-net",
         },
         {
-          name: "SCSS",
-          iconifyClass: "vscode-icons:file-type-scss2",
+          name: "Vue",
+          iconifyClass: "logos-vue",
+        },
+        {
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
+        },
+        {
+          name: "Vuetify",
+          iconifyClass: "logos-vue",
         },
       ],
     },
     {
       id: "6",
-      name: "Automate Attendace",
-      url: "https://github.com/harikanani/Node_Python",
-      description: "Automation of Online Attendance using node js and python",
-      languages: [
-        {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-      ],
-    },
-    {
-      id: "7",
-      name: "Automate Discord Bot",
-      url: "https://github.com/harikanani/AutomateDiscordBot",
+      name: "NTDC Power Division",
+      url: "https://ntdc.gov.pk/",
       description:
-        "A Discord Bot to send Automatic messages to serer channel in regular time difference.",
+        "A dynamic website which displays whole organization data in detail,mobile responsive..handled frontend changes",
       languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Python Selenium",
-          iconifyClass: "logos-selenium",
-        },
-        {
-          name: "Chromium Browser",
-          iconifyClass: "openmoji-chromium",
-        },
-      ],
-    },
-    {
-      id: "8",
-      name: "Flask Blog",
-      url: "https://github.com/harikanani/flask_blog",
-      description: "A Simple Blog Web Application made using Flask Framework",
-      languages: [
-        {
-          name: "Python",
-          iconifyClass: "logos-python",
-        },
-        {
-          name: "Flask",
-          iconifyClass: "cib-flask",
-        },
         {
           name: "HTML5",
           iconifyClass: "vscode-icons:file-type-html",
@@ -648,103 +627,190 @@ const projects = {
           name: "CSS3",
           iconifyClass: "vscode-icons:file-type-css",
         },
+        {
+          name: "Angular",
+          iconifyClass: "logos-angular",
+        },
+        {
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
+        },
+      ],
+    },
+    {
+      id: "7",
+      name: "File Uploading System",
+      url: "#",
+      description:
+        "This portal handles uploading of files which then will be displayed on System Operator website..",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
+        },
+      ],
+    },
+    {
+      id: "8",
+      name: "Thermal DashBoard",
+      url: "#",
+      description:
+        "This portal displays thermal power sector data details on real time basis..",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: ".Net API",
+          iconifyClass: "logos-net",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
+        },
       ],
     },
     {
       id: "9",
-      name: "Netflix top series",
-      url: "https://github.com/harikanani/netflix-top-series",
-      description: "List of Top Netflix Series which is deployed to vercel.",
+      name: "K-Electric DashBoard",
+      url: "#",
+      description:
+        "This portal displays chart of energy drawn from National Grid..",
       languages: [
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
           name: "HTML5",
-          iconifyClass: "logos-html-5",
+          iconifyClass: "vscode-icons:file-type-html",
         },
         {
           name: "CSS3",
-          iconifyClass: "logos-css-3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: ".Net API",
+          iconifyClass: "logos-net",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
     {
       id: "10",
-      name: "COVID-19 Tracker",
-      url: "https://github.com/harikanani/Covid19TrackerReact",
+      name: "Forecast Vs Generation",
+      url: "#",
       description:
-        "Simple Covid-19 Tracker made using React and deployed to Vercel.",
+        "This portal displays charts of forecasted vs actual generation charts..",
       languages: [
         {
-          name: "JavaScript",
-          iconifyClass: "logos-javascript",
-        },
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-        {
           name: "HTML5",
-          iconifyClass: "logos-html-5",
+          iconifyClass: "vscode-icons:file-type-html",
         },
         {
           name: "CSS3",
-          iconifyClass: "logos-css-3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "Vue",
+          iconifyClass: "logos-vue",
+        },
+        {
+          name: ".Net API",
+          iconifyClass: "logos-net",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
     {
       id: "11",
-      name: "Food Order Static Website",
-      url: "https://github.com/harikanani/food-order-website",
+      name: "SO Data Exchange Portal",
+      url: "#",
       description:
-        "A simple static website related to food restaurants service. this is reasponsive as well.",
+        "High level data exchange portal on which ipps used to share their generation with National Grid..",
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "logos-html-5",
+          iconifyClass: "vscode-icons:file-type-html",
         },
         {
           name: "CSS3",
-          iconifyClass: "logos-css-3",
+          iconifyClass: "vscode-icons:file-type-css",
         },
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
         {
-          name: "PHP",
-          iconifyClass: "logos-php",
+          name: ".Net API",
+          iconifyClass: "logos-net",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },
     {
       id: "12",
-      name: "NFT Launchpad",
-      url: "https://deliquescent-cents.000webhostapp.com/",
-      description: "NFT Launchpad crypto site portfolio",
+      name: "Air Defence System",
+      url: "#",
+      description: "Details Are Confidential..",
       languages: [
         {
           name: "HTML5",
-          iconifyClass: "logos-html-5",
+          iconifyClass: "vscode-icons:file-type-html",
         },
         {
           name: "CSS3",
-          iconifyClass: "logos-css-3",
+          iconifyClass: "vscode-icons:file-type-css",
         },
         {
           name: "JavaScript",
           iconifyClass: "logos-javascript",
         },
         {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
+          name: "Laravel",
+          iconifyClass: "logos-laravel",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
         },
       ],
     },

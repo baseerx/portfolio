@@ -45,18 +45,14 @@ function Projects(props) {
         </Fade>
       </div>
       <div className="repo-cards-div-main">
-        {projects.data.map((repo) => {
-          return <ProjectCard repo={repo} theme={theme} />;
+        {projects.data.map((repo, index) => {
+          return <ProjectCard repo={repo} theme={theme} key={index} />;
         })}
       </div>
       <br />
       <br />
       <br />
-      <a
-        {...styles}
-        className="general-btn"
-        href="https://github.com/harikanani"
-      >
+      <a {...styles} className="general-btn" href="https://github.com/baseerx">
         More Projects (Github)
       </a>
       <br />

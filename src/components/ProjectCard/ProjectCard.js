@@ -6,6 +6,9 @@ import { style } from "glamor";
 
 export default function ProjectCard({ repo, theme }) {
   function openRepoinNewTab(url) {
+    if (url === "#") {
+      return;
+    }
     var win = window.open(url, "_blank");
     win.focus();
   }
