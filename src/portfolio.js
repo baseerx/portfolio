@@ -814,6 +814,27 @@ const projects = {
         },
       ],
     },
+    {
+      id: "13",
+      name: "Random QuizApp",
+      url: "#",
+      description:
+        "Android/IOS App developed in react native,this basic app generates random questions",
+      languages: [
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "React-Native",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Bootstrap",
+          iconifyClass: "logos-bootstrap",
+        },
+      ],
+    },
   ],
 };
 
