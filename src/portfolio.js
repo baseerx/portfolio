@@ -16,14 +16,14 @@ const greeting = {
   full_name: "Muhammad Baseer Khan",
   subTitle: "Full Stack Developer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
-    "https://www.dropbox.com/s/321abgesiaxpxet/Baseer-Resume.pdf?dl=0",
+    "https://www.dropbox.com/s/c6w5ojgeys5uwep/Baseer-Resume-updated.pdf?dl=0",
   mail: "mailto:baxeerkhan@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/baseerx",
-  linkedin: "https://www.linkedin.com/in/BaseerKhan/",
+  linkedin: "https://www.linkedin.com/BaseerKhan/",
   gmail: "baxeerkhan@gmail.com",
   gitlab: "https://gitlab.com/baseerntdc",
   facebook: "https://www.facebook.com/BaxeerKhan",
@@ -817,7 +817,7 @@ const projects = {
     {
       id: "13",
       name: "Random QuizApp",
-      url: "#",
+      url: "https://github.com/baseerx/QuizApp.git",
       description:
         "Android/IOS App developed in react native,this basic app generates random questions",
       languages: [
